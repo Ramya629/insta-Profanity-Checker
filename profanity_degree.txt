@@ -1,0 +1,6 @@
+index - instaID - profanity% - found words 
+1 - #2413 - 100.0% - slur1
+2 - #2414 - 14.29% - slur2
+3 - #2415 - 16.67% - slur4
+4 - #2416 - 100.0% - slur5
+5 - #2417 - 100.0% - slur1
